@@ -15,17 +15,11 @@ Hey, I’m Ankit. I’m a Data and Analytics consultant living in Toronto, Ontar
 I am Confident,Creative and Entrepreneurial professional with 10+ years experience in
 
 -Digital Analytics
-
 -Data Analytics
-
 -Digital Marketing
-
 -eCommerce
-
 -Digital Strategy
-
 -Digital Sales
-
 -Digital Optimization
 
 In my free time I love doing reading,cooking,yoga and spending time with family and friends.
