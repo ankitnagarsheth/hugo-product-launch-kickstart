@@ -25,13 +25,11 @@ I am Confident,Creative and Entrepreneurial professional with 10+ years experien
 In my free time I love doing reading,cooking,yoga and spending time with family and friends.
 
 ---
-
 You can connect with me
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
 ---
-
 
 # Stay in touch
 
