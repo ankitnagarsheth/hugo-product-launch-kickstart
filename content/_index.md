@@ -4,9 +4,6 @@ header_tagline_paragraph: "I help people with bringing value through Data and An
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
-header_button_cta:
-  url: "#contact-form"
-  title: "Get in touch2"
 
 ---
 
