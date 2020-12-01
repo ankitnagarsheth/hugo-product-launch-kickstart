@@ -4,9 +4,7 @@ header_tagline_paragraph: "I help people with bringing value through data and  A
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
-header_button_more:
-  url: "#https://t.co/prbSBfptwg?amp=1"
-  title: "Analytics4U"
+
 
 ---
 
