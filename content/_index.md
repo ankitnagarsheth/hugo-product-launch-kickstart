@@ -1,6 +1,6 @@
 ---
-header_brand: "Data Analytics and Digital Marketing Professional in Toronto, Ontario, Canada"
-header_tagline_paragraph: "I help people with bringing value through data and  Analytics to achieve their goals and specialize in communicating those insights"
+header_brand: "Data and Analytics Professional in Toronto, Ontario, Canada"
+header_tagline_paragraph: "I help people with bringing value through Data and Analytics and specialize in deriving insights through story and visualizations and communicating those insights which help them in growing their business, decrease costs and improve revenue  #Analytics #Data Analytics #Datascience #Digital Analytics #Dataviz"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
@@ -10,7 +10,7 @@ header_button_cta:
 
 # About Me
 
-Hey, I’m Ankit. I’m a Digital Data Analytics and Digital Marketing consultant living in Toronto, Ontario, Canada.
+Hey, I’m Ankit. I’m a Data and Analytics consultant living in Toronto, Ontario, Canada. You can connect with me on [Linkedin](https://ca.linkedin.com/in/ankit-nagarsheth-4911622)
 
 I am Confident,Creative and Entrepreneurial professional with 10+ years experience in
 
